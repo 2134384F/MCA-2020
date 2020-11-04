@@ -1,0 +1,29 @@
+body {
+  background-color: light-grey;
+  background-repeat: no-repeat;
+  }
+  
+  /*Source: W3 Schools*/
+  .navbar {
+  background-color: dark grey;
+  overflow: hidden;
+  padding: 0px;
+  margin: 0px;
+  }
+  
+  .navbar a {
+  float: centre;
+  color: #3b3b3b;
+  text-align: centre;
+  padding: 10px 10px;
+  text-decoration: none;
+  font-size: 16px;
+  max-width: 100%;
+  }
+  
+  .navbar a:hover {
+  background_color: #ededed;
+  color: black;
+  }
+  
+  
