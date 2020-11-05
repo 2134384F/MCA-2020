@@ -1,7 +1,18 @@
 <!DOCTYPE html>
 <html>
 <head>
-</head>
-<body>
+  <link rel="stylesheet" type="text/css" href="MCA-2020/css/index.css">
+  <title>MCA 2020 Project Output</title>
+</head> 
+ <body> 
+<div class="navbar">
+  <a href="index.html">Week 1</a>
+  <a href="verovia.html>Week 2/3</a>
+  <a href="">Week 4</a>
+  
+           </div>
+<h1>2134384F</h1>
+<h2>Weeks 2 & 3</h2>
+<p>I transcribed If Ye Love Me by Thomas Tallis.</p>
 </body>
 </html>
