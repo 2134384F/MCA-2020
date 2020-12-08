@@ -43,7 +43,7 @@
           </editionStmt>
          <pubStmt>
              <availability>
-             <useRestrict auth.url="https://creativecommons.org/licenses/by/4.0/" auth="Creative Commons">Creative Commons Attributino 4.0 International, CC-BY-4.0</useRestrict>
+             <useRestrict auth.url="https://creativecommons.org/licenses/by/4.0/" auth="Creative Commons">Creative Commons Attribution 4.0 International, CC-BY-4.0</useRestrict>
              </availability>
          </pubStmt>
       </fileDesc>
